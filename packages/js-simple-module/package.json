@@ -1,0 +1,10 @@
+{
+  "name": "js-simple-module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "luxon": "^1.25.0"
+  }
+}
